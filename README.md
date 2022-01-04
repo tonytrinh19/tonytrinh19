@@ -1,4 +1,4 @@
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonytrinh19&hide=issues&show_icons=true&theme=onedark)
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonytrinh19&hide=issues&show_icons=true&theme=gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonytrinh19&layout=compact)
 
 <!--

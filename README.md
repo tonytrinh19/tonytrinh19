@@ -1,5 +1,5 @@
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonytrinh19&hide=issues&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonytrinh19&hide=issues&show_icons=true&theme=onedark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonytrinh19&layout=compact)]
 <!--
 **tonytrinh19/tonytrinh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
